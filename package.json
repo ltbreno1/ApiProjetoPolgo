@@ -1,0 +1,21 @@
+{
+  "name": "winners-api",
+  "version": "1.0.0",
+  "description": "winners api developed with nodejs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "serverless-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
